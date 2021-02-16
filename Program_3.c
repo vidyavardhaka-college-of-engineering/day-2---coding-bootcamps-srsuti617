@@ -3,7 +3,8 @@
 int main()
 {
 //Write your code bellow
-
+const char a;
+a='#';
 
 //if you write correct code fallowing output will print
 printf("%c\n",c);
